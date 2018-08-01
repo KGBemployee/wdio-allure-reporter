@@ -1,6 +1,6 @@
 {
-  "name": "wdio-allure-reporter",
-  "version": "0.6.3",
+  "name": "wdio-allure-fnb-reporter",
+  "version": "0.6.4",
   "description": "A WebdriverIO plugin. Report results in Allure format.",
   "main": "build/reporter.js",
   "scripts": {
